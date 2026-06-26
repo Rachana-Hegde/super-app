@@ -2,7 +2,6 @@
 
 A full-stack **Entertainment Dashboard Web Application** built using **React, Vite, Tailwind CSS, Zustand, and multiple APIs**. The application provides personalized entertainment recommendations, live weather updates, news headlines, notes management, and an interactive countdown timer within a modern dashboard.
 
----
 
 # 🚀 Features
 
@@ -13,7 +12,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Protected routes using authentication
 * Responsive registration interface
 
----
 
 ## 🎭 Entertainment Category Selection
 
@@ -22,7 +20,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Dynamic category management
 * Validation before proceeding
 
----
 
 ## 📊 Personalized Dashboard
 
@@ -33,7 +30,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Interactive countdown timer
 * Browse button to explore recommended movies
 
----
 
 ## 🎬 Movie Recommendations
 
@@ -43,7 +39,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Smooth hover animations
 * Responsive movie gallery
 
----
 
 ## 🌦️ Weather
 
@@ -53,7 +48,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Humidity
 * Wind speed
 
----
 
 ## 📰 News
 
@@ -61,7 +55,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Dynamic news fetched using News API
 * Updated every time the dashboard loads
 
----
 
 ## ⏳ Countdown Timer
 
@@ -71,33 +64,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 * Start and pause functionality
 * Live countdown updates
 
----
-
-# 💻 Frontend
-
-* React.js
-* Vite
-* Tailwind CSS
-* React Router DOM
-* Framer Motion
-* React Icons
-
----
-
-# ⚙️ State Management
-
-* Zustand
-* Local Storage Persistence
-
----
-
-# 🔌 APIs Used
-
-* OMDb API (Movie Recommendations)
-* Weather API
-* News API
-
----
 
 # 🛠️ Tech Stack
 
@@ -111,7 +77,6 @@ A full-stack **Entertainment Dashboard Web Application** built using **React, Vi
 | Animation        | Framer Motion                   |
 | APIs             | OMDb API, Weather API, News API |
 
----
 
 # 📁 Project Structure
 
@@ -146,7 +111,6 @@ super-app/
 └── README.md
 ```
 
----
 
 # ⚙️ Setup Instructions
 
@@ -157,7 +121,6 @@ git clone https://github.com/Rachana-Hegde/super-app.git
 cd super-app
 ```
 
----
 
 ## 🔹 2. Install Dependencies
 
@@ -165,7 +128,6 @@ cd super-app
 npm install
 ```
 
----
 
 ## 🔹 3. Create Environment Variables
 
@@ -177,7 +139,6 @@ VITE_NEWS_API_KEY=YOUR_NEWS_API_KEY
 VITE_WEATHER_API_KEY=YOUR_WEATHER_API_KEY
 ```
 
----
 
 ## 🔹 4. Run the Development Server
 
@@ -185,7 +146,6 @@ VITE_WEATHER_API_KEY=YOUR_WEATHER_API_KEY
 npm run dev
 ```
 
----
 
 ## ▶️ Open in Browser
 
@@ -193,7 +153,6 @@ npm run dev
 http://localhost:5173
 ```
 
----
 
 # 📱 Application Flow
 
@@ -205,7 +164,6 @@ http://localhost:5173
 6. Browse recommended movies
 7. View detailed movie information
 
----
 
 # 🔐 Features
 
@@ -218,7 +176,6 @@ http://localhost:5173
 * Interactive Timer
 * Personalized Dashboard
 
----
 
 # 📌 Future Enhancements
 
@@ -231,7 +188,6 @@ http://localhost:5173
 * User profiles
 * Notifications
 
----
 
 # 📌 Conclusion
 
