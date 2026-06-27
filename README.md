@@ -202,7 +202,6 @@ This project demonstrates:
 * Route protection
 * Interactive dashboard development
 
----
 
 # 👩‍💻 Author
 
